@@ -1,3 +1,3 @@
 ﻿# Operations Doc
 
-Result line: VERSION_A
+Result line: VERSION_B
